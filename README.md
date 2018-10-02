@@ -1,11 +1,10 @@
-# agent-ratings
+# Hotel Agent Ratings
 This tool gives proper ratings to agents
 
 # Data Pipeline Case-Study
 
-This is a test project within trivago's technical recruiting process.
 
-At trivago we maintain a big amount of hotel data.  
+We maintain a big amount of hotel data.  
 Imagine you need to write a tool that converts the data  
 from one format to other formats.
 
