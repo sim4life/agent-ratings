@@ -1,4 +1,5 @@
 # Hotel Agent Ratings
+[Deprecated]: look at Basic-ETL instead  
 This tool gives proper ratings to agents
 
 # Data Pipeline Case-Study
